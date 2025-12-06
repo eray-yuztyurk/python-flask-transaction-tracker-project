@@ -9,7 +9,15 @@ It’s not connected to a real database — everything stays in memory — which
 the project easy to understand while experimenting with Flask.
 
 ---
-
+## Table of Contents
+- [What the App Includes](#what-the-app-includes)
+- [Project Structure](#project-structure)
+- [How the Data Works](#how-the-data-works)
+- [Routes](#routes)
+- [How to Run the App](#how-to-run-the-app)
+- [About This Project](#about-this-project)
+- [License](#license)
+  
 ## What the App Includes
 
 - A table showing all transactions
